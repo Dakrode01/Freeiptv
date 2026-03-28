@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:1083
+#EXTINF:6,
+https://cdn-edge-sg3.retromovie.tv/live/24d74889fc440cab09867d56b4f91e05/l_3736_6498013_1083.ts?nimblesessionid=113546304&md5=8StVNysILpwaFxkWfFEPHw&expires=1774700049
+#EXTINF:6,
+https://cdn-edge-sg3.retromovie.tv/live/24d74889fc440cab09867d56b4f91e05/l_3736_6504013_1084.ts?nimblesessionid=113546304&md5=W_YDa8KffsqMmSUCypKt-A&expires=1774700049
+#EXTINF:6,
+https://cdn-edge-sg3.retromovie.tv/live/24d74889fc440cab09867d56b4f91e05/l_3736_6510013_1085.ts?nimblesessionid=113546304&md5=-Mzpy6qaSIVsSO4OgMrZfQ&expires=1774700049
+#EXTINF:6,
+https://cdn-edge-sg3.retromovie.tv/live/24d74889fc440cab09867d56b4f91e05/l_3736_6516013_1086.ts?nimblesessionid=113546304&md5=ufqcHlbCQjtdGZ1poLkGTg&expires=1774700049
+#EXTINF:6,
+https://cdn-edge-sg3.retromovie.tv/live/24d74889fc440cab09867d56b4f91e05/l_3736_6522013_1087.ts?nimblesessionid=113546304&md5=JGmLjXoM2Rz7ftLRA1yI1A&expires=1774700049
+
